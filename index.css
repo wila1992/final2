@@ -1,0 +1,89 @@
+#name {
+	color: #652323;
+	font-family: Georgia;
+	font-size: 125px;
+	 text-align:center;
+	 margin-top:-20px;
+
+    text-shadow:
+	1px 1px 0 #CCC,
+	2px 2px 0 #CCC, 
+	3px 3px 0 #444,
+	4px 4px 0 #444,
+	5px 5px 0 #444,
+	6px 6px 0 #444; 
+} 
+
+html{
+	background-image: url("aboutmeface.jpg");
+	background-size: 120%;
+	background-repeat: no-repeat;
+}
+
+#items {
+	color: white;
+	font-family: Georgia;
+	font-size: 25px;
+	list-style: none;
+	margin-right: 20px;
+	margin-left:-20px;
+	margin-top: -10px;
+
+text-shadow: 0 0 20px #652323, 10px -10px 30px #652323, -20px -20px 40px #3A2B05, 20px -40px 50px black, -20px -60px 60px white, 0 -80px 70px white, 10px -90px 80px white;
+
+
+
+
+}
+
+.resume {
+	text-decoration: none;
+	color: #652323;
+	font-family: georgia;
+    left: 5px;
+    bottom: -225px;
+    padding-top:140px;
+    font-size: 50px;
+    text-align:center;
+
+
+    text-shadow:
+	1px 1px 0 #CCC,
+	2px 2px 0 #CCC, /* end of 2 level deep grey shadow */
+	3px 3px 0 #444,
+	4px 4px 0 #444,
+	5px 5px 0 #444,
+	6px 6px 0 #444; /* end of 4 level deep dark shadow */
+}
+
+.portfolio {
+	text-decoration: none;
+	font-family: georgia;
+	text-align:center;
+    left: 5px;
+    bottom: -300px;
+    font-size: 50px;
+
+
+    text-shadow:
+	1px 1px 0 #CCC,
+	2px 2px 0 #CCC,
+	3px 3px 0 #444,
+	4px 4px 0 #444,
+	5px 5px 0 #444,
+	6px 6px 0 #444; 
+}
+
+
+.navlink {
+	text-decoration: none;
+	color: #652323;
+
+}
+
+.navlink:hover {
+	color: #3A2B05;
+
+}
+
+@media (min-width: )
